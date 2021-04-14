@@ -1,5 +1,5 @@
-### Kon'nichiwa 👋
-### Watashi wa Joseph
+### HELLO!! 👋
+### I am Joseph Kishore
 - 🔭 I’m currently a student at Velagapudi Ramakrishna Siddhartha Engineering College 
 - 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering
 - 👯 I’m looking for guidance in AI and ML
